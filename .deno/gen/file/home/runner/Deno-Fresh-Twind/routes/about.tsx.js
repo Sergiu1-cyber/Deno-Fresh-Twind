@@ -1,0 +1,5 @@
+/** @jsx h */ import { h } from "preact";
+export default function About() {
+    return /*#__PURE__*/ h("div", null, /*#__PURE__*/ h("h1", null, "About Page"));
+};
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImZpbGU6Ly8vaG9tZS9ydW5uZXIvRGVuby1GcmVzaC1Ud2luZC9yb3V0ZXMvYWJvdXQudHN4Il0sInNvdXJjZXNDb250ZW50IjpbIi8qKiBAanN4IGggKi9cbmltcG9ydCB7IGggfSBmcm9tIFwicHJlYWN0XCI7XG5pbXBvcnQgeyB0dyB9IGZyb20gXCJAdHdpbmRcIjtcblxuZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQWJvdXQoKSB7XG4gIHJldHVybiAoXG4gICAgPGRpdj5cbiAgICAgIDxoMT5BYm91dCBQYWdlPC9oMT5cbiAgICA8L2Rpdj5cbiAgKTtcbn0iXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsYUFBYSxDQUNiLFNBQVMsQ0FBQyxRQUFRLFFBQVEsQ0FBQztBQUczQixlQUFlLFNBQVMsS0FBSyxHQUFHO0lBQzlCLHFCQUNFLEFBTkosQ0FBYSxDQU1SLEtBQUcsc0JBQ0YsQUFQTixDQUFhLENBT04sSUFBRSxRQUFDLFlBQVUsQ0FBSyxDQUNmLENBQ047Q0FDSCxDQUFBIn0=
