@@ -18,6 +18,7 @@ export default function Home() {
         alt="the fresh logo: a sliced lemon dripping with juice"
       />
       <Component1 />
+      <h1>Fresh e Cool!</h1>
       <p class={tw`my-6`}>
         Fresh Funcționează  :)
       </p>
