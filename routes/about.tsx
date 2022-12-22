@@ -10,7 +10,7 @@ export default function About() {
     <div>
       <TheNavigation />
       <h1>About Page</h1>
-      <h3>Deno e Cool</h3>
+      <h3>Deno funcționează rapid </h3>
     </div>
   );
 }
